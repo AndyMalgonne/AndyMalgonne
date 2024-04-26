@@ -13,5 +13,6 @@
 
 <details>
   <summary> <h2>Ongoing Projects: </h2></summary>
-    <img src="./badges/push_swapn.png"  title="Push_swap" length="100" width="100"><img src="./badges/pipexn.png"  title="Pipex" length="100" width="100">
+    <li> Project(s) :
+      <img src="./badges/push_swapn.png"  title="Push_swap" length="100" width="100"><img src="./badges/pipexn.png"  title="Pipex" length="100" width="100">
 </details>
