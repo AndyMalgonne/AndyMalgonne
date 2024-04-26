@@ -1,6 +1,6 @@
 # Hello, I'm Andy a 42 student 👋
 
-<img src="https://badge.mediaplus.ma/starryblue/amalgonn?1337Badge=off&UM6P=off" alt="amalgonn's 42 stats"/> 
+<img src="https://badge.mediaplus.ma/darkblue/amalgonn?1337Badge=off&UM6P=off" alt="amalgonn's 42 stats"/> 
 
 <details>
   <summary> <h2>Finished Projects: </h2> </summary>
