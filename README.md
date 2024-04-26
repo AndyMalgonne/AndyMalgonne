@@ -16,3 +16,16 @@
     <li> Project(s) :
       <img src="./badges/push_swapn.png"  title="Push_swap" length="100" width="100"><img src="./badges/pipexn.png"  title="Pipex" length="100" width="100">
 </details>
+
+---
+- I'm learning C with my school but also learning React Native when i've time for my side projects 💻
+- I want to create a mobile app who cross Gaming and Sport 📱
+- Feel free to contact me if u want to discuss 💬
+---
+
+# Languages and Tools:
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
