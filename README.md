@@ -1,7 +1,6 @@
 # Hello, I'm Andy 👋
 
-| <img src="https://badge.mediaplus.ma/starryblue/amalgonn?1337Badge=off&UM6P=off" alt="amalgonn's 42 stats"/> |
-|---|---|
+<img src="https://badge.mediaplus.ma/starryblue/amalgonn?1337Badge=off&UM6P=off" alt="amalgonn's 42 stats"/> 
 
 <details>
 <summary> <h2>Achievements : </h2> </summary>
