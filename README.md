@@ -18,9 +18,9 @@
 </details>
 
 ---
-- I'm learning C with my school but also learning React Native when i've time for my side projects 💻
-- I want to create a mobile app who cross Gaming and Sport 📱
-- Feel free to contact me if u want to discuss 💬
+- I'm learning C through my school, but I'm also studying React Native in my spare time for my side projects 💻
+- I want to create a mobile app that combines gaming and sports 📱
+- Feel free to contact me if you'd like to discuss this further 💬
 ---
 
 # Languages and Tools:
@@ -28,4 +28,5 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://reactnative.dev" target=_blank rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 </p>
