@@ -13,13 +13,17 @@
       <img src="./badges/push_swape.png"  title="Push_swap: 100/100" length="100" width="100">
       <img src="./badges/pipexe.png"  title="Pipex: 116/125" length="100" width="100"> 
       <img src="./badges/so_longe.png"  title="so_long : 100/100" length="100" width="100"> </br>
-      <!--- <li>3rd Circle : <img src="./badges/minishelln.png"  title="Minishell : a venir" length="100" width="100"><img src="./badges/philosophersn.png"  title="Philosophers : a venir" length="100" width="100"> -->
+    <li>3rd Circle : 
+      <img src="./badges/minishelle.png"  title="Minishell : 101/100" length="100" width="100">
+      <img src="./badges/philosopherse.png"  title="Philosophers : 100/100" length="100" width="100">
 </details>
 
 <details>
   <summary> <h2>Ongoing Projects: </h2></summary>
     <li> Project(s) :
-      <img src="./badges/push_swapn.png"  title="Push_swap" length="100" width="100"><img src="./badges/pipexn.png"  title="Pipex" length="100" width="100">
+      <img src="./badges/cppn.png"  title="cpp : incoming" length="100" width="100">
+      <img src="./badges/netpracticen.png"  title="netpractice : incoming" length="100" width="100">
+      <img src="./badges/cub3dn.png"  title="cub3d : incoming" length="100" width="100">
 </details>
 
 ---
